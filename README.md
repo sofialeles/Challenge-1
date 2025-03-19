@@ -1,3 +1,3 @@
 # Challenge-1
 
-![Texto Alternativo](assets/read-me.png)
+![Amigo Secreto](assets/Read%20Me.png)
